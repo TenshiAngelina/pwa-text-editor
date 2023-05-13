@@ -13,7 +13,7 @@ I created this app to practice my skills with PWA. This application helps the us
 
 ## Installation
 
-The user only needs to follow the URL and then click on the "Install" button.
+The user only needs to follow the URL https://obscure-refuge-22891.herokuapp.com/ and then click on the "Install" button.
 
 ## Usage
 
